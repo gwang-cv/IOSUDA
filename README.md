@@ -1,6 +1,8 @@
 # IOSDA
 
+An unsupervised domain adaptation with input and output space alignment for joint optic disc and cup segmentation
 
+---
 Architecture of IOSUDA
 
 ![](https://github.com/EdisonCCL/IOSUDA/blob/master/images/IOSUDA.png)
